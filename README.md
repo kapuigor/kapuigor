@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kapuigor
 - 👀 I’m interested in IOS developement
 - 🌱 I’m currently learning Swift
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on IOS developement
 - 📫 How to reach me ...
 
 <!---
